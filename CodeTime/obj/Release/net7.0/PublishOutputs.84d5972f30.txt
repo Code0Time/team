@@ -1,0 +1,9 @@
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.exe
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\web.config
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.dll
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.deps.json
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.runtimeconfig.json
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.pdb
+D:\Sources\Web\CodeTime_Team\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\FluentValidation.dll

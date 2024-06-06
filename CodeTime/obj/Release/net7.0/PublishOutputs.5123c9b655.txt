@@ -1,0 +1,9 @@
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.exe
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\web.config
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.dll
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.deps.json
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.runtimeconfig.json
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\CodeTime.pdb
+D:\navid\Web\CodeTime\CodeTime\obj\Release\net7.0\PubTmp\Out\FluentValidation.dll

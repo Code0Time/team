@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBsKwJlZD1JiIdyz2Sv5VsGxiszDZ5osyYZrPmx79czbT+tX3/N450tlMTyU/sJ3xOj+qUg4ObEGm1crIi0qmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\CodeTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Win\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,777 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CodeTime.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CodeTime.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\Sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\Sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\Sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\Sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\codetime\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\codetime\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\css\\style.css",
+      "PackagePath": "staticwebassets\\codetime\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\Estedad-Regular.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\Estedad-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\Jost-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\Jost-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\KalamehFaNum-Bold.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\KalamehFaNum-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\KalamehFaNum-Regular.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\KalamehFaNum-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\Yekan Bakh FaNum 04 Regular.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\Yekan Bakh FaNum 04 Regular.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-thin-100.woff",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-thin-100.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\fonts\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\codetime\\fonts\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\asp.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\asp.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\bootstrap.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\bootstrap.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\css.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\css.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\elem05.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\elem05.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\elem06.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\elem06.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\elem07.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\elem07.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\faq.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\faq.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\html.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\html.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\joomla.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\joomla.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\js.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\js.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\laravel.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\laravel.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\mongodb.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\mongodb.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\mysal.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\mysal.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\nigga.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\nigga.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\nodejs.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\nodejs.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\php.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\php.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\purple-circle-description.svg",
+      "PackagePath": "staticwebassets\\codetime\\images\\purple-circle-description.svg"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\react.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\react.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\red-circle-description.svg",
+      "PackagePath": "staticwebassets\\codetime\\images\\red-circle-description.svg"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\sass.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\sass.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\sqlserver.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\sqlserver.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\vue.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\vue.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\webs.jpg",
+      "PackagePath": "staticwebassets\\codetime\\images\\webs.jpg"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\images\\wordpress.png",
+      "PackagePath": "staticwebassets\\codetime\\images\\wordpress.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\index.html",
+      "PackagePath": "staticwebassets\\codetime\\index.html"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\codetime\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\js\\anime.min.js",
+      "PackagePath": "staticwebassets\\codetime\\js\\anime.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\js\\emails.js",
+      "PackagePath": "staticwebassets\\codetime\\js\\emails.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\js\\main.js",
+      "PackagePath": "staticwebassets\\codetime\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\offline.html",
+      "PackagePath": "staticwebassets\\codetime\\offline.html"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\script.js",
+      "PackagePath": "staticwebassets\\codetime\\script.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\service-worker.js",
+      "PackagePath": "staticwebassets\\codetime\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\codetime\\web.config",
+      "PackagePath": "staticwebassets\\codetime\\web.config"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\Estedad-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Estedad-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\Jost-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Jost-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\KalamehFaNum-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\KalamehFaNum-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\KalamehFaNum-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\KalamehFaNum-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\Yekan Bakh FaNum 04 Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Yekan Bakh FaNum 04 Regular.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-thin-100.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-thin-100.woff"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\fonts\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\Projects\\bamaria.png",
+      "PackagePath": "staticwebassets\\images\\Projects\\bamaria.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\Projects\\cv.png",
+      "PackagePath": "staticwebassets\\images\\Projects\\cv.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\Projects\\getlike.png",
+      "PackagePath": "staticwebassets\\images\\Projects\\getlike.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\Projects\\mrfile.jpg",
+      "PackagePath": "staticwebassets\\images\\Projects\\mrfile.jpg"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\Projects\\pdfconverter.png",
+      "PackagePath": "staticwebassets\\images\\Projects\\pdfconverter.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\asp.webp",
+      "PackagePath": "staticwebassets\\images\\asp.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\bootstrap.webp",
+      "PackagePath": "staticwebassets\\images\\bootstrap.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\css.webp",
+      "PackagePath": "staticwebassets\\images\\css.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\elem05.webp",
+      "PackagePath": "staticwebassets\\images\\elem05.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\elem06.webp",
+      "PackagePath": "staticwebassets\\images\\elem06.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\elem07.webp",
+      "PackagePath": "staticwebassets\\images\\elem07.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\faq.webp",
+      "PackagePath": "staticwebassets\\images\\faq.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\html.webp",
+      "PackagePath": "staticwebassets\\images\\html.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\joomla.webp",
+      "PackagePath": "staticwebassets\\images\\joomla.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\js.webp",
+      "PackagePath": "staticwebassets\\images\\js.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\laravel.webp",
+      "PackagePath": "staticwebassets\\images\\laravel.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\logo\\codetime.png",
+      "PackagePath": "staticwebassets\\images\\logo\\codetime.png"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\mongodb.webp",
+      "PackagePath": "staticwebassets\\images\\mongodb.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\mysal.webp",
+      "PackagePath": "staticwebassets\\images\\mysal.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\nigga.webp",
+      "PackagePath": "staticwebassets\\images\\nigga.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\nodejs.webp",
+      "PackagePath": "staticwebassets\\images\\nodejs.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\php.webp",
+      "PackagePath": "staticwebassets\\images\\php.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\purple-circle-description.svg",
+      "PackagePath": "staticwebassets\\images\\purple-circle-description.svg"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\react.webp",
+      "PackagePath": "staticwebassets\\images\\react.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\red-circle-description.svg",
+      "PackagePath": "staticwebassets\\images\\red-circle-description.svg"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\sass.webp",
+      "PackagePath": "staticwebassets\\images\\sass.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\sqlserver.webp",
+      "PackagePath": "staticwebassets\\images\\sqlserver.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\vue.webp",
+      "PackagePath": "staticwebassets\\images\\vue.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\webs.webp",
+      "PackagePath": "staticwebassets\\images\\webs.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\images\\wordpress.webp",
+      "PackagePath": "staticwebassets\\images\\wordpress.webp"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\js\\anime.min.js",
+      "PackagePath": "staticwebassets\\js\\anime.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\js\\emails.js",
+      "PackagePath": "staticwebassets\\js\\emails.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\js\\service-worker.js",
+      "PackagePath": "staticwebassets\\js\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Sources\\Web\\CodeTime_Team\\CodeTime\\CodeTime\\wwwroot\\web.config",
+      "PackagePath": "staticwebassets\\web.config"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CodeTime.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CodeTime.props",
+      "PackagePath": "build\\CodeTime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CodeTime.props",
+      "PackagePath": "buildMultiTargeting\\CodeTime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CodeTime.props",
+      "PackagePath": "buildTransitive\\CodeTime.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
